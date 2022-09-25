@@ -240,6 +240,18 @@ export const config = {
     // 你可以不断按格式往下增加
     // ...
   ],
-
+早上好
+你的所在城市:{{date.DATA}}
+今天的天气是:{{weather.DATA}}
+最低气温:{{min_temperature.DATA}}
+最高气温:{{max_temperature.DATA}}
+今天是我们在一起的第{{love_day.DATA}}天
+距离你的生日还有{{love_day.DATA}}天
+距离四六级考试还有{{love_day.DATA}}天
+距离教资还有{{love_day.DATA}}天
+{{birthday_message.DATA}}
+{{one_talk.DATA}}--{{talk_from.DATA}}
+{{onte_en.DATA}}
+{{onte_ch.DATA}}
 
 }
